@@ -1,5 +1,6 @@
 import React, { useRef } from "react";
-
+import { BiSearch } from "react-icons/bi";
+import { BsCart3 } from "react-icons/bs";
 import logo from '../../assets/images/logo/logo.png'
 import { AiOutlineMenu } from "react-icons/ai";
 import { ImCancelCircle } from "react-icons/im";
